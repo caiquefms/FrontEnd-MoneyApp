@@ -14,4 +14,4 @@ require('modules/admin-lte/dist/css/AdminLTE.css');
 require('modules/admin-lte/dist/css/skins/_all-skins.css');
 require('modules/admin-lte/plugins/iCheck/flat/blue.css');
  
-import './custom.css'
+require('./custom.css');
