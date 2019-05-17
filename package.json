@@ -1,11 +1,11 @@
 {
-  "name": "money-frontend",
+  "name": "my-money-frontend",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev":"webpack-dev-server --progress --colors --inline --hot",
-    "production":"webpack --progress -p"
+    "dev": "webpack-dev-server --progress --colors --inline --hot",
+    "production": "webpack --progress -p"
   },
   "keywords": [],
   "author": "",
